@@ -2442,7 +2442,7 @@
     "_angularDamping": 0,
     "_linearVelocity": {
       "__type__": "cc.Vec2",
-      "x": -300,
+      "x": -200,
       "y": 0
     },
     "_angularVelocity": 0,
@@ -2665,7 +2665,7 @@
     "_angularDamping": 0,
     "_linearVelocity": {
       "__type__": "cc.Vec2",
-      "x": -300,
+      "x": -200,
       "y": 0
     },
     "_angularVelocity": 0,
@@ -2842,8 +2842,6 @@
       "__id__": 2
     },
     "_enabled": true,
-    "label": null,
-    "text": "hello",
     "_id": "707Il/hkNBpa+1S4wCbP3S"
   }
 ]

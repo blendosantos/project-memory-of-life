@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "MemoryOfLife",
+  "id": "154d862a-f7dd-478b-a803-0fcf7aaaa5bc",
+  "version": "2.4.4",
+  "isNew": false
+}
